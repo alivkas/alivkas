@@ -7,7 +7,7 @@
 ## 🙃 About me
 <p>My name is Matvey, I am a backend developer from Russia, I prefer Java and everything related to it, but I also study other technologies</p>
 
-<summary><h2><b>📚 My stack</b></h2></summary>
+## 📚 My stack
 <p>
   <h3>Langs</h3>
   <img src="https://skillicons.dev/icons?i=java,python,html,css&perline=7" />
